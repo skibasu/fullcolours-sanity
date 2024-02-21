@@ -4,6 +4,6 @@ export default {
   title: 'Category',
   fields: [
     {name: 'name', type: 'string', title: 'Category'},
-    {name: 'description', title: 'Description', type: 'text'},
+    {name: 'desc', title: 'Description', type: 'text'},
   ],
 }
